@@ -3,7 +3,7 @@ import json, os
 
 class Config:
 
-    _CONFIG_FILE = "/Users/kerem/Dropbox/etc/config/jira2evernote.txt" # Check sample_config.txt
+    _CONFIG_FILE = "/Users/kerem/OneDrive/etc/config/jira2evernote.txt" # Check sample_config.txt
 
     evernote_comment_count = 0
     evernote_notebook = ""
